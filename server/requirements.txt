@@ -1,1 +1,6 @@
-
+fastapi
+uvicorn
+telethon
+python-dotenv
+pyrogram
+tgcrypto
